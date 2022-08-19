@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915522334488",
+    "project_id": "flash-chat-139b0",
+    "storage_bucket": "flash-chat-139b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915522334488:android:1351de0b1a7114a756f86d",
+        "android_client_info": {
+          "package_name": "co.menzicele.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915522334488-qrtrd36hm8evmisof0go4uan7d0l1jfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSBZu1c53FOaieERElr0jGSAjo0ByrDnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915522334488-qrtrd36hm8evmisof0go4uan7d0l1jfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
